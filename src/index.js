@@ -9,7 +9,7 @@ import VideoList from './components/video_list';
 //import YTComments from "/Users/zonev/Desktop/Projects/Javascript/npm/youtube-api-comments";
 
 //The API key allows us to make requests to youtube 
-const API_KEY = 'AIzaSyDmTNUsM0dyOnRbbe5dbfjoy-hk8MHjMgA';
+const API_KEY = '';
 
 
 //Create a new component tha produces some HTML. 
